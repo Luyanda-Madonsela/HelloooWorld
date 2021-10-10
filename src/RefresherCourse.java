@@ -21,7 +21,7 @@ public class RefresherCourse {
             System.out.println(i + 1);
             System.out.println("Edit Check");
             System.out.println("Another Edit Check");
-            System.out.println("One more Edit Check");
+            System.out.println("One More Edit Check");
 
         }
 
