@@ -19,7 +19,9 @@ public class RefresherCourse {
 
         for(i = -1; i <= 8; ++i) {
             System.out.println(i + 1);
-            System.out.println(i + 1);
+            System.out.println("Edit Check");
+            System.out.println("Another Edit Check");
+            System.out.println("One More Edit Check");
 
         }
 
